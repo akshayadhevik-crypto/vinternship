@@ -18,7 +18,7 @@ order: 2
 8. [Cliq Channel](#8-cliq-channel)
 9. [MERN Case Studies](#9-mern-case-studies)
 10. [Ejection Policy](#10-ejection-policy)
-11. [Viva/PES (Self-Healing Endorsement Network)](#11-vivapes-self-healing-endorsement-network)
+11. [Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)](#11-self-healing-endorsement-network---vivapeer-evaluation-systempes)
 
 ---
 

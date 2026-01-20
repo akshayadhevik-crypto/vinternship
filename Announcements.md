@@ -8,6 +8,10 @@ announcements:
       date: "17th Jan 2026"
       description: "In this activity, students are required to set a clear and professional profile picture in their Zoho account so that it is visible to everyone."
       content: "Explore your Zoho account settings and look for options related to your profile and visibility. You may need to search online or refer to Zoho’s official help resources to find where profile pictures and privacy settings are managed. Ensure your uploaded photo clearly shows your face and is visible to others on the platform."
+    - title: "LinkedIn Post - First Week Internship Experience"
+      date: "18th Jan 2026"
+      description: "Share your first week internship experience on LinkedIn to build your professional network and engage with the cohort."
+      content: "We want to incentivize your LinkedIn activity by throwing a challenge with exciting gifts and perks in store. Create a post sharing all that you have learnt during your first week's internship experience. This will help you build connections with the current cohort, expand your network as people comment on your posts, and potentially discover new opportunities. Write a short and crisp message, include a GenAI image to attract attention, tag the supporting organizations (Vicharanashala lab, Annam.ai, IIT Ropar, NPTEL, and your college), and tag the mentors. Share your post link on the Cliq channel. For complete guidelines and detailed instructions, visit the [LinkedIn Post Activity](../linkedin_post/) page."
 
     # - title: ""
     #   date: ""
