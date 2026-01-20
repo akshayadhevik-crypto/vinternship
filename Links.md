@@ -19,6 +19,10 @@ links:
       url: "https://forms.gle/guEXxPnZcom5TR1a7"
     - label: "Pinternship T&C and Declaration Form"
       url: "https://zfrmz.in/IlClYEoa5iIOpMRVt3Xc"
+    - label: "Endorsement - NPTEL Pinternship Cohort 1"
+      url: "https://forms.gle/LpaNWG9SiYzshCsw8"
+    - label: "Endorsement Audit Form - NPTEL Pinternship Cohort 1(for VLED team only)"
+      url: "https://forms.gle/9CC6JQz5j7R9ZCyKA"
 ---
 
 [← Back]({{ site.baseurl }}/)

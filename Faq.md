@@ -63,7 +63,7 @@ Guidelines:
 
 Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
 
-**2.5 How can I avail the one-day leave allowed during the internship?**  
+**2.5 How can I avail the one-day leave allowed every month during the internship?**    
 Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
 
 However, if you must take the leave, follow the steps below:
@@ -147,39 +147,39 @@ The Discontinuation Policy addresses prolonged inactivity at an administrative l
 **7.1 How do I log in to ViBe?**  
 To log in to the ViBe platform, follow the steps below carefully:
 
-->Open the ViBe invite link shared with you via email.
+1. Open the ViBe invite link shared with you via email.
 
-->Click Continue as Student when prompted.
+2. Click Continue as Student when prompted.
 
-->Select Continue with Google.
+3. Select Continue with Google.
 
-->Ensure you sign in using the same email ID (college email / registered email) that received the invite.
+4. Ensure you sign in using the same email ID (college email / registered email) that received the invite.
 
-->Once authenticated, you will be redirected to your ViBe Dashboard, where your enrolled course will be visible.
+5. Once authenticated, you will be redirected to your ViBe Dashboard, where your enrolled course will be visible.
 
 ⚠️ Logging in with a different email ID may result in access issues or missing course visibility.
 
 **7.2 Invite accepted but shows "No course enrolled"?**  
 If you see “No course enrolled”:
 
-->Make sure you are logged in with the correct registered email ID.
+- Make sure you are logged in with the correct registered email ID.
 
-->Check if your college email has multiple aliases and try the correct one.
+- Check if your college email has multiple aliases and try the correct one.
 
-->Log out and log in again once.
+- Log out and log in again once.
 
-->If the issue continues, contact support with your registered email ID and a screenshot.
+- If the issue continues, contact support with your registered email ID and a screenshot.
 
 **7.3 Why are videos stuck or repeating?**  
 This may happen due to ViBe’s monitored learning system. Common reasons include:
 
-->Videos must be watched fully and in sequence (no skipping).
+- Videos must be watched fully and in sequence (no skipping).
 
-->Camera and microphone permissions must be enabled.
+- Camera and microphone permissions must be enabled.
 
-->Poor lighting or high background noise can affect playback.
+- Poor lighting or high background noise can affect playback.
 
-->Switching tabs or staying idle may restart the video.
+- Switching tabs or staying idle may restart the video.
 
 ✅ For smooth playback, stay on the ViBe tab, keep your camera on, and watch videos in a quiet, well-lit environment.
 
@@ -291,18 +291,17 @@ If you're facing profile picture issues, try these troubleshooting steps:
 - This may be due to your **data center being mapped to US instead of India**
 - Send an email with detailed issue description to: **support@zohocliq.com**
 
-**8.7 Why is it mandatory to update my Display Picture (DP)?**
+**8.7 Why is it mandatory to update my Display Picture (DP)?**  
 Updating your DP with a clear photo of your face helps establish your identity in the community. This reduces risks such as impersonation, cyberbullying, and misuse of the platform, similar to showing an ID card in a physical organization.
 
-**8.7.1 What kind of Display Picture is allowed?**
-->Only original photographs clearly showing your face are allowed.
-->GenAI-generated images, avatars, cartoons, logos, or group photos are not permitted.
+**8.8 What kind of Display Picture is allowed?**  
+Only original photographs clearly showing your face are allowed. GenAI-generated images, avatars, cartoons, logos, or group photos are not permitted.
 
-**8.7.2 What is the penalty for posting messages without an updated DP?**
-->From now on, posting any message without a compliant DP will result in an immediate –10% HP deduction.
-->In addition to the immediate –10% HP deduction for posting, there will be an additional daily –10% HP deduction for continued non-compliance.
+**8.9 What is the penalty for posting messages without an updated DP?** 
+- From now on, posting any message without a compliant DP will result in an immediate –10% HP deduction.  
+- In addition to the immediate –10% HP deduction for posting, there will be an additional daily –10% HP deduction for continued non-compliance.
   
-**8.8 How do I join the Cliq channels with my college mail ID?**  
+**8.10 How do I join the Cliq channels with my college mail ID?**  
 
 Follow these steps to join the internship channels using your college email:
 
@@ -342,14 +341,14 @@ After completing all ViBe MERN modules:
 4. Try to understand each case study first, then attempt to code a solution for it.
 5. Open a code editor (for example, **VS Code**) and implement the tasks.
 5. Getting stuck is normal. You can ask questions on Cliq, revisit the ViBe videos, and discuss with others.
-7. Submit your work using the provided [submission link](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform).
+7. Submit your work using the provided [submission link](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform){:target="_blank"}.
 
-**9.4 What comes after Case Studies?**
-After completing case studies, you move ahead to the Endorsement phase. The Self-healing endorsement network is a peer evaluation strategy that the learner needs to accomplish before getting into the next phase. The learner is expected to take an endorsement from a peer and move ahead to the third component: **Practical Learning (Projects)**. Visit - [The Self-Healing Endorsement Network page](https://sudarshansudarshan.github.io/pinternship/endorsements/) to learn more about endorsements.
+**9.4 What comes after Case Studies?**  
+After completing case studies, you move ahead to the Endorsement phase. The Self-healing endorsement network is a peer evaluation strategy that the learner needs to accomplish before getting into the next phase. The learner is expected to take an endorsement from a peer and move ahead to the third component that is **Practical Learning (Projects)**. Please visit - [The Self-Healing Endorsement Network page]({{ site.baseurl }}/endorsements/) to learn more about endorsements.
 
 **9.5 How do I submit the case studies?**  
 
-1. Visit the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform).
+1. Visit the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform){:target="_blank"}.
 2. Fill in all required details carefully, including:
    - First name and last name  
    - Email ID associated with the internship  
@@ -537,7 +536,7 @@ This dataset is used to:
 **11.11 How do I submit endorsements? (Google Form instructions)**  
 All endorsements and de-endorsements must be submitted through the **official Google Form**:
 
-🔗 **Endorsement Form Link:**  [Click Here](https://forms.gle/LpaNWG9SiYzshCsw8)
+🔗 **Endorsement Form Link:**  [Click Here](https://forms.gle/LpaNWG9SiYzshCsw8){:target="_blank"}
 
 The form contains **mandatory sections**:
 1. **Endorser’s Name and Email**
