@@ -31,6 +31,8 @@ links:
       url: "https://forms.gle/y3Uujjsmjg771PNf9"
     - label: "Case Study Submission Form (for Dijkstrians)"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSctefkw36-SuJZ6iQb8nBzwJJ9G4ommbfO_-gEgAJ1yfl4mgA/viewform"
+    - label: "Vinternship T&C and Declaration Form (for Kruskalians)"
+      url: "https://forms.zohopublic.in/annamai1/form/DeclarationFormCohort3/formperma/iZnntPYMLLi7yUylY0VwzxH418pQc6s5N1dr9BwxDrk"
 ---
 
 [← Back]({{ site.baseurl }}/)
